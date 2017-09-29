@@ -17,3 +17,4 @@ Tutorials are interactive web documents that instructors can use as in-class act
 3. [Driver reaction times](http://dtkaplan.shinyapps.io/Traffic_signs)
 4. [Data and diabetes](https://dtkaplan.shinyapps.io/Diabetes/)
 5. [Khan Acedemy](https://www.khanacademy.org/math/ap-statistics)
+6. [Youtube Video](<iframe width="560" height="315" src="https://www.youtube.com/embed/HUUsEgAe8x4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>)
