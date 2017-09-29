@@ -1,8 +1,6 @@
 # Math 1130 Elementary Statistics Course Materials
 
-> Note to instructors: If you are an instructor who was directed to this site so that you can set up your own web page, you'll find the instructions at <http://github.com/dliew/Math1130>. 
 
-> Another note to instructors: You'll be editing the `index.md` file in your own repository to put in your own content. None of the material below this note will be appropriate for your individual site, so make sure that you **delete** all of the material in your `index.md` that shows up the very first time you edit it.
 
 ## Welcome to StatPREP. 
 
