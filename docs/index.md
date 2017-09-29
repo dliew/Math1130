@@ -18,4 +18,3 @@ Tutorials are interactive web documents that instructors can use as in-class act
 4. [Data and diabetes](https://dtkaplan.shinyapps.io/Diabetes/)
 5. [Khan Acedemy](https://www.khanacademy.org/math/ap-statistics)
 6. [Youtube Video](https://www.youtube.com/embed/HUUsEgAe8x4?rel=0&amp;controls=0&amp;showinfo=0)
-https://www.youtube.com/embed/qiUKuZQRsWo?rel=0&amp;controls=0&amp;showinfo=0
